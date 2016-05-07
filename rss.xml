@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[lschule]]></title>
         <description><![CDATA[lschule]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/lschule/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 07 May 2016 21:44:21 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 07 May 2016 21:45:29 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/lschule/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>https://www.facebook.com/loic.schule</p>]]></description>
+            <link>https://thegrid.ai/lschule/httpswwwfacebookcomloicschule/index.html</link>
+            <guid isPermaLink="false">6b2834a9-2378-4cf1-9cf3-9f08cc8831bc</guid>
+            <pubDate>Sat, 07 May 2016 21:45:18 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Intro to me]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/fb2b6611-77eb-445e-b1d0-837ef59c7811.jpg">]]></description>
-            <link>undefinedintro-to-me/index.html</link>
+            <link>https://thegrid.ai/lschule/intro-to-me/index.html</link>
             <guid isPermaLink="false">6190c38d-e797-40a6-8ff1-35bdaaacfece</guid>
             <pubDate>Sat, 07 May 2016 21:44:20 GMT</pubDate>
         </item>
