@@ -4,11 +4,12 @@ hasPage: true
 inNav: false
 inLanguage: null
 keywords: []
-description: 'https://www.linkedin.com/in/lschule'
-datePublished: '2016-05-07T21:45:25.412Z'
-dateModified: '2016-05-07T21:45:25.101Z'
+description: "If you want to know anything about my professional history, you will find it on linkedIn. It's up to date and used almost everyday.https://www.linkedin.com/in/lschule"
+datePublished: '2016-05-07T21:53:52.564Z'
+dateModified: '2016-05-07T21:51:33.217Z'
 title: ''
 author: []
+sourcePath: _posts/2016-05-07-httpswwwlinkedincominlschule.md
 authors: []
 publisher:
   name: null
@@ -16,9 +17,8 @@ publisher:
   url: null
   favicon: null
 starred: false
-sourcePath: _posts/2016-05-07-httpswwwlinkedincominlschule.md
 url: httpswwwlinkedincominlschule/index.html
 _type: Article
 
 ---
-https://www.linkedin.com/in/lschule
+If you want to know anything about my professional history, you will find it on linkedIn. It's up to date and used almost everyday.https://www.linkedin.com/in/lschule
