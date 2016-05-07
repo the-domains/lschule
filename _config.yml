@@ -1,7 +1,7 @@
 name: lschule
 favicon: null
-layout_spectrum: 0.8500867879483849
-typography_spectrum: 0.10685082734562457
+layout_spectrum: 0.98536
+typography_spectrum: 0.25563
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#ADD7F6'
-    - '#87BFFF'
-    - '#3F8EFC'
-    - '#2667FF'
-    - '#3B28CC'
+    - '#ffffff'
+    - '#152562'
+    - '#bec59f'
+    - '#828783'
+    - '#c32968'
   brandStrength: 0.5958814392797649
   lightness: 0.5830113266129047
   saturation: 0.7947903606109321
-  rhythmicContrast: 0.125747948884964
+  rhythmicContrast: 0.75
 purpose: []
