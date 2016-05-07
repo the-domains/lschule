@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-05-07T21:58:37.318Z'
-dateModified: '2016-05-07T21:58:35.491Z'
+datePublished: '2016-05-07T22:07:54.544Z'
+dateModified: '2016-05-07T21:58:46.704Z'
 title: ''
 author: []
 sourcePath: _posts/2016-05-07-intro-to-me.md
@@ -16,7 +16,7 @@ publisher:
   domain: null
   url: null
   favicon: null
-starred: true
+starred: false
 url: intro-to-me/index.html
 _type: Article
 
