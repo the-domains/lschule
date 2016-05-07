@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: "Well, that's me!"
-datePublished: '2016-05-07T21:54:21.414Z'
-dateModified: '2016-05-07T21:48:13.277Z'
+datePublished: '2016-05-07T21:56:51.902Z'
+dateModified: '2016-05-07T21:55:47.353Z'
 title: ''
 author: []
 sourcePath: _posts/2016-05-07-intro-to-me.md
@@ -16,7 +16,7 @@ publisher:
   domain: null
   url: null
   favicon: null
-starred: false
+starred: true
 url: intro-to-me/index.html
 _type: Article
 
