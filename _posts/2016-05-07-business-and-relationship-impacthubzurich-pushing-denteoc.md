@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: "Business & relationship @impacthubzurich // pushing denteo.ch // exploring new ventures // father of 3 // gardener // bike rider // I'm entrepreneur, passionate, optimist and full of energy"
-datePublished: '2016-05-08T19:42:10.523Z'
-dateModified: '2016-05-08T19:42:09.756Z'
+datePublished: '2016-05-08T19:43:33.989Z'
+dateModified: '2016-05-08T19:42:32.139Z'
 title: ''
 author:
   - name: ''
