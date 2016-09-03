@@ -1,8 +1,4 @@
-typography_spectrum: 0.5042553
-opengraph:
-  image: null
-  type: null
-  appId: null
+purpose: []
 collections:
   - index:
       path: /
@@ -15,26 +11,30 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
-layout_spectrum: 0.1851064
 color:
-  saturation: 0.5
+  saturation: 0.4893617
   brandStrength: 0
-  rhythmicContrast: 0
+  lightness: 0.806383
   brandColors:
     - '#ffffff'
     - '#000000'
     - '#44690f'
     - '#d7d15e'
     - '#9f8571'
-  lightness: 1
-purpose: []
-cta:
-  bucket: null
-  version: null
-  domain: null
-favicon: null
-name: lschule
+  rhythmicContrast: 0.3191489
 analytics:
   twitter: null
   google: null
   facebook: null
+favicon: null
+cta:
+  bucket: null
+  version: null
+  domain: null
+name: lschule
+opengraph:
+  image: null
+  type: null
+  appId: null
+typography_spectrum: 0.5042553
+layout_spectrum: 0.1851064
